@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8+xkWvvfP93rNwKAumMGUyJzHylCyqPomXxYA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s22010>; rel="up"
+Last-Modified: Tue, 19 Jan 2021 18:35:32 GMT
+ETag: "6NNqLtJyAfaMtGOJYJVsUu"
+Date: Tue, 19 Jan 2021 18:35:37 GMT
+Content-Type: application/json
+Content-Length: 84
+
+{
+    "type": "drink",
+    "name": "Vodka",
+    "weight": 0.7,
+    "price": 32.0
+  }
